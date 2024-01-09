@@ -14,7 +14,7 @@ def reformat(path):
     data = f.read().replace('\n    ', ';')
 
     df = pd.read_csv(io.StringIO(data), sep=';', header=None)   
-    df.columns = ['Code', 'occupation']
+    df.columns = ['OCC', 'occupation']
 
     df.to_csv(path, index=False, sep=';')
 
