@@ -20,4 +20,7 @@ This project is about homophily in the labor market. More precisely, ethnicity a
 
 ### Network
 - What links between race and occupation can be observed over several years?
-- occupation mobility network for white, black, hispanic, ... per year -> visualize
+- occupation mobility network for top 5 racial groups ... per year -> visualize
+
+
+The data contains several columns which provide racial and ethnicity related information. For the basic exploration the focus lies only on the variable RACE. For network analysis, we will continue to limit ourselves to the top 5 racial groups.
