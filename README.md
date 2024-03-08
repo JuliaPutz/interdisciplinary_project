@@ -6,7 +6,10 @@ This project is about homophily in the labor market. More precisely, ethnicity a
 ## Interesting Research Questions
 ### Diversity of jobs
 - Are there jobs that are dominated by a race / more diverse?
+- Which occupation categories are the most popular amongst each race per year?
 - Did jobs become more diverse in the past years (not that much grouping anymore)?
+- How popular ist it to change occupation over the years per race?
+- Out of those who changed occupation, how popular is it to change to a different occupation category per race?
 - Can job transitions from not so diverse job categories to more diverse ones be observed? (Is there a trend to become more diverse? Is there a specific timespan when this started/ was most intense?)
 
 ### How people choose jobs
@@ -16,7 +19,10 @@ This project is about homophily in the labor market. More precisely, ethnicity a
 - Are people that have a spouse with a different nationality than theirs more likely to work in more diverse jobs?
 
 ### Income
-- Is there a different income between different races/immigration time?
+- Is there a different average income between different races?
+- Does the immigration time influence the average income (per race)?
+- Does the citizenship status influence the average income (per race)?
+- Does the average income per occupation differ from race to race?
 
 ### Network
 - What links between race and occupation can be observed over several years?
