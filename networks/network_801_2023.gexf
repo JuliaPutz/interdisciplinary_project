@@ -1,0 +1,1529 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-03-21">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="ASECWT" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="category_code" type="long" />
+      <attribute id="1" title="Average_INCWAGE" type="double" />
+      <attribute id="2" title="Average_INCWAGE_scaled" type="double" />
+    </attributes>
+    <nodes>
+      <node id="Chief executives and legislators/public administration" label="Chief executives and legislators/public administration">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="102833.33333333333" />
+          <attvalue for="2" value="0.18231583662728112" />
+        </attvalues>
+      </node>
+      <node id="General and Operations Managers" label="General and Operations Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="70000.0" />
+          <attvalue for="2" value="0.12410478344158521" />
+        </attvalues>
+      </node>
+      <node id="Managers in Marketing, Advertising, and Public Relations" label="Managers in Marketing, Advertising, and Public Relations">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="57072.0" />
+          <attvalue for="2" value="0.10118440286540216" />
+        </attvalues>
+      </node>
+      <node id="Administrative Services Managers" label="Administrative Services Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="72000.0" />
+          <attvalue for="2" value="0.12765063439705907" />
+        </attvalues>
+      </node>
+      <node id="Computer and Information Systems Managers" label="Computer and Information Systems Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="225000.0" />
+          <attvalue for="2" value="0.3989082324908096" />
+        </attvalues>
+      </node>
+      <node id="Financial Managers" label="Financial Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="51500.0" />
+          <attvalue for="2" value="0.09130566210345198" />
+        </attvalues>
+      </node>
+      <node id="Human Resources Managers" label="Human Resources Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="38000.0" />
+          <attvalue for="2" value="0.0673711681540034" />
+        </attvalues>
+      </node>
+      <node id="Constructions Managers" label="Constructions Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="290000.0" />
+          <attvalue for="2" value="0.5141483885437101" />
+        </attvalues>
+      </node>
+      <node id="Education Administrators" label="Education Administrators">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="68400.0" />
+          <attvalue for="2" value="0.12126810267720611" />
+        </attvalues>
+      </node>
+      <node id="Property, Real Estate, and Community Association Managers" label="Property, Real Estate, and Community Association Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="120000.0" />
+          <attvalue for="2" value="0.21275105732843178" />
+        </attvalues>
+      </node>
+      <node id="Social Workers" label="Social Workers">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="48705.0" />
+          <attvalue for="2" value="0.08635033539317725" />
+        </attvalues>
+      </node>
+      <node id="Food Service and Lodging Managers" label="Food Service and Lodging Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="32666.666666666668" />
+          <attvalue for="2" value="0.0579155656060731" />
+        </attvalues>
+      </node>
+      <node id="Medical and Health Services Managers" label="Medical and Health Services Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="80000.0" />
+          <attvalue for="2" value="0.14183403821895452" />
+        </attvalues>
+      </node>
+      <node id="Natural Science Managers" label="Natural Science Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="70001.0" />
+          <attvalue for="2" value="0.12410655636706294" />
+        </attvalues>
+      </node>
+      <node id="Social and Community Service Managers" label="Social and Community Service Managers">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="20050.0" />
+          <attvalue for="2" value="0.03554715582862548" />
+        </attvalues>
+      </node>
+      <node id="Managers, nec (including Postmasters)" label="Managers, nec (including Postmasters)">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="87825.0" />
+          <attvalue for="2" value="0.15570718008224602" />
+        </attvalues>
+      </node>
+      <node id="Grounds Maintenance Workers" label="Grounds Maintenance Workers">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="32000.0" />
+          <attvalue for="2" value="0.05673361528758181" />
+        </attvalues>
+      </node>
+      <node id="Compliance Officers, Except Agriculture" label="Compliance Officers, Except Agriculture">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="80000.0" />
+          <attvalue for="2" value="0.14183403821895452" />
+        </attvalues>
+      </node>
+      <node id="Claims Adjusters, Appraisers, Examiners, and Investigators" label="Claims Adjusters, Appraisers, Examiners, and Investigators">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="80000.0" />
+          <attvalue for="2" value="0.14183403821895452" />
+        </attvalues>
+      </node>
+      <node id="Management Analysts" label="Management Analysts">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="90000.0" />
+          <attvalue for="2" value="0.15956329299632385" />
+        </attvalues>
+      </node>
+      <node id="Other Business Operations and Management Specialists" label="Other Business Operations and Management Specialists">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="18000.0" />
+          <attvalue for="2" value="0.031912658599264766" />
+        </attvalues>
+      </node>
+      <node id="Accountants and Auditors" label="Accountants and Auditors">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="49000.0" />
+          <attvalue for="2" value="0.08687334840910965" />
+        </attvalues>
+      </node>
+      <node id="Credit Analysts" label="Credit Analysts">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="43000.0" />
+          <attvalue for="2" value="0.07623579554268806" />
+        </attvalues>
+      </node>
+      <node id="Bookkeeping, Accounting, and Auditing Clerks" label="Bookkeeping, Accounting, and Auditing Clerks">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="20000.0" />
+          <attvalue for="2" value="0.03545850955473863" />
+        </attvalues>
+      </node>
+      <node id="Personal Financial Advisors" label="Personal Financial Advisors">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="25000.0" />
+          <attvalue for="2" value="0.04432313694342329" />
+        </attvalues>
+      </node>
+      <node id="Credit Counselors and Loan Officers" label="Credit Counselors and Loan Officers">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="135000.0" />
+          <attvalue for="2" value="0.23934493949448576" />
+        </attvalues>
+      </node>
+      <node id="Tax Preparers" label="Tax Preparers">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="60000.0" />
+          <attvalue for="2" value="0.10637552866421589" />
+        </attvalues>
+      </node>
+      <node id="Financial Specialists, nec" label="Financial Specialists, nec">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="49500.0" />
+          <attvalue for="2" value="0.08775981114797811" />
+        </attvalues>
+      </node>
+      <node id="Computer Scientists and Systems Analysts/Network systems Analysts/Web Developers" label="Computer Scientists and Systems Analysts/Network systems Analysts/Web Developers">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="40000.0" />
+          <attvalue for="2" value="0.07091701910947726" />
+        </attvalues>
+      </node>
+      <node id="Software Developers, Applications and Systems Software" label="Software Developers, Applications and Systems Software">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="70500.0" />
+          <attvalue for="2" value="0.12499124618045368" />
+        </attvalues>
+      </node>
+      <node id="Computer Support Specialists" label="Computer Support Specialists">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="48500.0" />
+          <attvalue for="2" value="0.08598688567024118" />
+        </attvalues>
+      </node>
+      <node id="Mathematical science occupations, nec" label="Mathematical science occupations, nec">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="26700.0" />
+          <attvalue for="2" value="0.047337110255576076" />
+        </attvalues>
+      </node>
+      <node id="Engineering Technicians, Except Drafters" label="Engineering Technicians, Except Drafters">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="62500.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Chemical Engineers" label="Chemical Engineers">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="74000.0" />
+          <attvalue for="2" value="0.13119648535253295" />
+        </attvalues>
+      </node>
+      <node id="Civil Engineers" label="Civil Engineers">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="106500.0" />
+          <attvalue for="2" value="0.1888165633789832" />
+        </attvalues>
+      </node>
+      <node id="Engineers, nec" label="Engineers, nec">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="140507.66666666666" />
+          <attvalue for="2" value="0.24910962205070153" />
+        </attvalues>
+      </node>
+      <node id="Industrial Engineers, including Health and Safety" label="Industrial Engineers, including Health and Safety">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="75000.0" />
+          <attvalue for="2" value="0.13296941083026986" />
+        </attvalues>
+      </node>
+      <node id="Mechanical Engineers" label="Mechanical Engineers">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="85000.0" />
+          <attvalue for="2" value="0.15069866560763917" />
+        </attvalues>
+      </node>
+      <node id="Counselors" label="Counselors">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="31625.0" />
+          <attvalue for="2" value="0.05606876823343046" />
+        </attvalues>
+      </node>
+      <node id="Lawyers, and judges, magistrates, and other judicial workers" label="Lawyers, and judges, magistrates, and other judicial workers">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="69500.0" />
+          <attvalue for="2" value="0.12321832070271674" />
+        </attvalues>
+      </node>
+      <node id="Nursing, Psychiatric, and Home Health Aides" label="Nursing, Psychiatric, and Home Health Aides">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="31666.666666666668" />
+          <attvalue for="2" value="0.05614264012833617" />
+        </attvalues>
+      </node>
+      <node id="Paralegals and Legal Assistants" label="Paralegals and Legal Assistants">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="20000.0" />
+          <attvalue for="2" value="0.03545850955473863" />
+        </attvalues>
+      </node>
+      <node id="Postsecondary Teachers" label="Postsecondary Teachers">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="189000.0" />
+          <attvalue for="2" value="0.33508291529228007" />
+        </attvalues>
+      </node>
+      <node id="Preschool and Kindergarten Teachers" label="Preschool and Kindergarten Teachers">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="41842.0" />
+          <attvalue for="2" value="0.0741827478394687" />
+        </attvalues>
+      </node>
+      <node id="Childcare Workers" label="Childcare Workers">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="20200.4" />
+          <attvalue for="2" value="0.035813803820477115" />
+        </attvalues>
+      </node>
+      <node id="Elementary and Middle School Teachers" label="Elementary and Middle School Teachers">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="67625.0" />
+          <attvalue for="2" value="0.11989408543195999" />
+        </attvalues>
+      </node>
+      <node id="Secondary School Teachers" label="Secondary School Teachers">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="78500.0" />
+          <attvalue for="2" value="0.13917465000234913" />
+        </attvalues>
+      </node>
+      <node id="Other Teachers and Instructors" label="Other Teachers and Instructors">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="105000.0" />
+          <attvalue for="2" value="0.1861571751623778" />
+        </attvalues>
+      </node>
+      <node id="Archivists, Curators, and Museum Technicians" label="Archivists, Curators, and Museum Technicians">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="48000.0" />
+          <attvalue for="2" value="0.08510042293137271" />
+        </attvalues>
+      </node>
+      <node id="Librarians" label="Librarians">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="55000.0" />
+          <attvalue for="2" value="0.09751090127553123" />
+        </attvalues>
+      </node>
+      <node id="Teacher Assistants" label="Teacher Assistants">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="28500.0" />
+          <attvalue for="2" value="0.05052837611550255" />
+        </attvalues>
+      </node>
+      <node id="Designers" label="Designers">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="15000.0" />
+          <attvalue for="2" value="0.026593882166053972" />
+        </attvalues>
+      </node>
+      <node id="Artists and Related Workers" label="Artists and Related Workers">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="125.0" />
+          <attvalue for="2" value="0.00022161568471711643" />
+        </attvalues>
+      </node>
+      <node id="Chefs and Cooks" label="Chefs and Cooks">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="16831.11111111111" />
+          <attvalue for="2" value="0.02984030570751004" />
+        </attvalues>
+      </node>
+      <node id="Entertainers and Performers, Sports and Related Workers, All Other" label="Entertainers and Performers, Sports and Related Workers, All Other">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8000.0" />
+          <attvalue for="2" value="0.014183403821895452" />
+        </attvalues>
+      </node>
+      <node id="Editors, News Analysts, Reporters, and Correspondents" label="Editors, News Analysts, Reporters, and Correspondents">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="70000.0" />
+          <attvalue for="2" value="0.12410478344158521" />
+        </attvalues>
+      </node>
+      <node id="Photographers" label="Photographers">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="42000.0" />
+          <attvalue for="2" value="0.07446287006495113" />
+        </attvalues>
+      </node>
+      <node id="Physicians and Surgeons" label="Physicians and Surgeons">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="132000.0" />
+          <attvalue for="2" value="0.23402616306127497" />
+        </attvalues>
+      </node>
+      <node id="Registered Nurses" label="Registered Nurses">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="71428.57142857143" />
+          <attvalue for="2" value="0.12663753412406656" />
+        </attvalues>
+      </node>
+      <node id="Therapists, nec" label="Therapists, nec">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="59000.0" />
+          <attvalue for="2" value="0.10460260318647896" />
+        </attvalues>
+      </node>
+      <node id="Clinical Laboratory Technologists and Technicians" label="Clinical Laboratory Technologists and Technicians">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="110000.0" />
+          <attvalue for="2" value="0.19502180255106247" />
+        </attvalues>
+      </node>
+      <node id="Diagnostic Related Technologists and Technicians" label="Diagnostic Related Technologists and Technicians">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="65000.0" />
+          <attvalue for="2" value="0.11524015605290056" />
+        </attvalues>
+      </node>
+      <node id="Emergency Medical Technicians and Paramedics" label="Emergency Medical Technicians and Paramedics">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="70000.0" />
+          <attvalue for="2" value="0.12410478344158521" />
+        </attvalues>
+      </node>
+      <node id="Health Diagnosing and Treating Practitioner Support Technicians" label="Health Diagnosing and Treating Practitioner Support Technicians">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="20000.0" />
+          <attvalue for="2" value="0.03545850955473863" />
+        </attvalues>
+      </node>
+      <node id="Licensed Practical and Licensed Vocational Nurses" label="Licensed Practical and Licensed Vocational Nurses">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="48000.0" />
+          <attvalue for="2" value="0.08510042293137271" />
+        </attvalues>
+      </node>
+      <node id="Medical Assistants and Other Healthcare Support Occupations, nec" label="Medical Assistants and Other Healthcare Support Occupations, nec">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="27416.4" />
+          <attvalue for="2" value="0.04860723406782681" />
+        </attvalues>
+      </node>
+      <node id="Sheriffs, Bailiffs, Correctional Officers, and Jailers" label="Sheriffs, Bailiffs, Correctional Officers, and Jailers">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="100000.0" />
+          <attvalue for="2" value="0.17729254777369316" />
+        </attvalues>
+      </node>
+      <node id="Security Guards and Gaming Surveillance Officers" label="Security Guards and Gaming Surveillance Officers">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="27630.0" />
+          <attvalue for="2" value="0.04898593094987142" />
+        </attvalues>
+      </node>
+      <node id="Retail Salespersons" label="Retail Salespersons">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="40066.666666666664" />
+          <attvalue for="2" value="0.07103521414132638" />
+        </attvalues>
+      </node>
+      <node id="First-Line Supervisors of Food Preparation and Serving Workers" label="First-Line Supervisors of Food Preparation and Serving Workers">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="25100.0" />
+          <attvalue for="2" value="0.04450042949119698" />
+        </attvalues>
+      </node>
+      <node id="Food Preparation Workers" label="Food Preparation Workers">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="40000.0" />
+          <attvalue for="2" value="0.07091701910947726" />
+        </attvalues>
+      </node>
+      <node id="Bartenders" label="Bartenders">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="47000.0" />
+          <attvalue for="2" value="0.08332749745363578" />
+        </attvalues>
+      </node>
+      <node id="Combined Food Preparation and Serving Workers, Including Fast Food" label="Combined Food Preparation and Serving Workers, Including Fast Food">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="13666.666666666666" />
+          <attvalue for="2" value="0.024229981529071395" />
+        </attvalues>
+      </node>
+      <node id="First-Line Supervisors of Sales Workers" label="First-Line Supervisors of Sales Workers">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="53961.666666666664" />
+          <attvalue for="2" value="0.09567001365448105" />
+        </attvalues>
+      </node>
+      <node id="Waiters and Waitresses" label="Waiters and Waitresses">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="22700.0" />
+          <attvalue for="2" value="0.04024540834462834" />
+        </attvalues>
+      </node>
+      <node id="Food Servers, Nonrestaurant" label="Food Servers, Nonrestaurant">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="8700.0" />
+          <attvalue for="2" value="0.015424451656311304" />
+        </attvalues>
+      </node>
+      <node id="Food preparation and serving related workers, nec" label="Food preparation and serving related workers, nec">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="21480.0" />
+          <attvalue for="2" value="0.03808243926178929" />
+        </attvalues>
+      </node>
+      <node id="Carpenters" label="Carpenters">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="13500.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Dishwashers" label="Dishwashers">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="13598.0" />
+          <attvalue for="2" value="0.024108240646266797" />
+        </attvalues>
+      </node>
+      <node id="Host and Hostesses, Restaurant, Lounge, and Coffee Shop" label="Host and Hostesses, Restaurant, Lounge, and Coffee Shop">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="29700.0" />
+          <attvalue for="2" value="0.05265588668878687" />
+        </attvalues>
+      </node>
+      <node id="First-Line Supervisors of Housekeeping and Janitorial Workers" label="First-Line Supervisors of Housekeeping and Janitorial Workers">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="34611.0" />
+          <attvalue for="2" value="0.06136272370995294" />
+        </attvalues>
+      </node>
+      <node id="Janitors and Building Cleaners" label="Janitors and Building Cleaners">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="27600.0" />
+          <attvalue for="2" value="0.048932743185539314" />
+        </attvalues>
+      </node>
+      <node id="Maids and Housekeeping Cleaners" label="Maids and Housekeeping Cleaners">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="25666.666666666668" />
+          <attvalue for="2" value="0.04550508726191458" />
+        </attvalues>
+      </node>
+      <node id="Life, Physical, and Social Science Technicians, nec" label="Life, Physical, and Social Science Technicians, nec">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="24500.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Gaming Services Workers" label="Gaming Services Workers">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="22000.0" />
+          <attvalue for="2" value="0.03900436051021249" />
+        </attvalues>
+      </node>
+      <node id="Personal Appearance Workers, nec" label="Personal Appearance Workers, nec">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="60540.0" />
+          <attvalue for="2" value="0.10733290842219384" />
+        </attvalues>
+      </node>
+      <node id="Entertainment Attendants and Related Workers, nec" label="Entertainment Attendants and Related Workers, nec">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="7000.0" />
+          <attvalue for="2" value="0.01241047834415852" />
+        </attvalues>
+      </node>
+      <node id="Barbers" label="Barbers">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="75000.0" />
+          <attvalue for="2" value="0.13296941083026986" />
+        </attvalues>
+      </node>
+      <node id="Hairdressers, Hairstylists, and Cosmetologists" label="Hairdressers, Hairstylists, and Cosmetologists">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="10000.0" />
+          <attvalue for="2" value="0.017729254777369315" />
+        </attvalues>
+      </node>
+      <node id="Purchasing Agents, Except Wholesale, Retail, and Farm Products" label="Purchasing Agents, Except Wholesale, Retail, and Farm Products">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="90000.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Personal Care Aides" label="Personal Care Aides">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="26440.555555555555" />
+          <attvalue for="2" value="0.04687713458996321" />
+        </attvalues>
+      </node>
+      <node id="Door-to-Door Sales Workers, News and Street Vendors, and Related Workers" label="Door-to-Door Sales Workers, News and Street Vendors, and Related Workers">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Recreation and Fitness Workers" label="Recreation and Fitness Workers">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="4400.0" />
+          <attvalue for="2" value="0.007800872102042499" />
+        </attvalues>
+      </node>
+      <node id="Cashiers" label="Cashiers">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="14443.555555555555" />
+          <attvalue for="2" value="0.025607347633553244" />
+        </attvalues>
+      </node>
+      <node id="Insurance Sales Agents" label="Insurance Sales Agents">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="64400.0" />
+          <attvalue for="2" value="0.11417640076625839" />
+        </attvalues>
+      </node>
+      <node id="Sales Representatives, Wholesale and Manufacturing" label="Sales Representatives, Wholesale and Manufacturing">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="33066.666666666664" />
+          <attvalue for="2" value="0.058624735797167864" />
+        </attvalues>
+      </node>
+      <node id="Real Estate Brokers and Sales Agents" label="Real Estate Brokers and Sales Agents">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="96750.5" />
+          <attvalue for="2" value="0.171531426433787" />
+        </attvalues>
+      </node>
+      <node id="Hotel, Motel, and Resort Desk Clerks" label="Hotel, Motel, and Resort Desk Clerks">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="15000.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="First-Line Supervisors of Office and Administrative Support Workers" label="First-Line Supervisors of Office and Administrative Support Workers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="58000.0" />
+          <attvalue for="2" value="0.10282967770874203" />
+        </attvalues>
+      </node>
+      <node id="Customer Service Representatives" label="Customer Service Representatives">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="37785.71428571428" />
+          <attvalue for="2" value="0.0669912555516312" />
+        </attvalues>
+      </node>
+      <node id="Bank Tellers" label="Bank Tellers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="7200.0" />
+          <attvalue for="2" value="0.012765063439705907" />
+        </attvalues>
+      </node>
+      <node id="Dispatchers" label="Dispatchers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="22000.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Eligibility Interviewers, Government Programs" label="Eligibility Interviewers, Government Programs">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="54000.0" />
+          <attvalue for="2" value="0.0957379757977943" />
+        </attvalues>
+      </node>
+      <node id="Interviewers, Except Eligibility and Loan" label="Interviewers, Except Eligibility and Loan">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="41848.0" />
+          <attvalue for="2" value="0.07419338539233511" />
+        </attvalues>
+      </node>
+      <node id="Nonfarm Animal Caretakers" label="Nonfarm Animal Caretakers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="4480.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Receptionists and Information Clerks" label="Receptionists and Information Clerks">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="25000.0" />
+          <attvalue for="2" value="0.04432313694342329" />
+        </attvalues>
+      </node>
+      <node id="Information and Record Clerks, All Other" label="Information and Record Clerks, All Other">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="56700.0" />
+          <attvalue for="2" value="0.10052487458768403" />
+        </attvalues>
+      </node>
+      <node id="Industrial and Refractory Machinery Mechanics" label="Industrial and Refractory Machinery Mechanics">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Couriers and Messengers" label="Couriers and Messengers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="32117.0" />
+          <attvalue for="2" value="0.05694104756847703" />
+        </attvalues>
+      </node>
+      <node id="Postal Service Clerks" label="Postal Service Clerks">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="32000.0" />
+          <attvalue for="2" value="0.05673361528758181" />
+        </attvalues>
+      </node>
+      <node id="Postal Service Mail Carriers" label="Postal Service Mail Carriers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="71000.0" />
+          <attvalue for="2" value="0.12587770891932215" />
+        </attvalues>
+      </node>
+      <node id="Shipping, Receiving, and Traffic Clerks" label="Shipping, Receiving, and Traffic Clerks">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="55000.0" />
+          <attvalue for="2" value="0.09751090127553123" />
+        </attvalues>
+      </node>
+      <node id="Stock Clerks and Order Fillers" label="Stock Clerks and Order Fillers">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="21553.333333333332" />
+          <attvalue for="2" value="0.03821245379682333" />
+        </attvalues>
+      </node>
+      <node id="Secretaries and Administrative Assistants" label="Secretaries and Administrative Assistants">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="46200.0" />
+          <attvalue for="2" value="0.08190915707144623" />
+        </attvalues>
+      </node>
+      <node id="Word Processors and Typists" label="Word Processors and Typists">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="55001.0" />
+          <attvalue for="2" value="0.09751267420100897" />
+        </attvalues>
+      </node>
+      <node id="Office Clerks, General" label="Office Clerks, General">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="29500.0" />
+          <attvalue for="2" value="0.05230130159323948" />
+        </attvalues>
+      </node>
+      <node id="First-Line Supervisors of Construction Trades and Extraction Workers" label="First-Line Supervisors of Construction Trades and Extraction Workers">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Brickmasons, Blockmasons, and Stonemasons" label="Brickmasons, Blockmasons, and Stonemasons">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="213500.0" />
+          <attvalue for="2" value="0.3785195894968349" />
+        </attvalues>
+      </node>
+      <node id="Construction Laborers" label="Construction Laborers">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="26125.0" />
+          <attvalue for="2" value="0.046317678105877336" />
+        </attvalues>
+      </node>
+      <node id="Drywall Installers, Ceiling Tile Installers, and Tapers" label="Drywall Installers, Ceiling Tile Installers, and Tapers">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="70000.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Construction equipment operators except paving, surfacing, and tamping equipment operators" label="Construction equipment operators except paving, surfacing, and tamping equipment operators">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="69250.0" />
+          <attvalue for="2" value="0.12277508933328252" />
+        </attvalues>
+      </node>
+      <node id="Electricians" label="Electricians">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="115000.0" />
+          <attvalue for="2" value="0.20388642993974712" />
+        </attvalues>
+      </node>
+      <node id="Painters, Construction and Maintenance" label="Painters, Construction and Maintenance">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="37500.0" />
+          <attvalue for="2" value="0.06648470541513493" />
+        </attvalues>
+      </node>
+      <node id="Pipelayers, Plumbers, Pipefitters, and Steamfitters" label="Pipelayers, Plumbers, Pipefitters, and Steamfitters">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="35000.0" />
+          <attvalue for="2" value="0.062052391720792605" />
+        </attvalues>
+      </node>
+      <node id="Sheet Metal Workers, metal-working" label="Sheet Metal Workers, metal-working">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="22000.0" />
+          <attvalue for="2" value="0.03900436051021249" />
+        </attvalues>
+      </node>
+      <node id="Construction and Building Inspectors" label="Construction and Building Inspectors">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="15500.0" />
+          <attvalue for="2" value="0.02748034490492244" />
+        </attvalues>
+      </node>
+      <node id="First-Line Supervisors of Mechanics, Installers, and Repairers" label="First-Line Supervisors of Mechanics, Installers, and Repairers">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="156000.0" />
+          <attvalue for="2" value="0.2765763745269613" />
+        </attvalues>
+      </node>
+      <node id="Electrical Power-Line Installers and Repairers" label="Electrical Power-Line Installers and Repairers">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Aircraft Mechanics and Service Technicians" label="Aircraft Mechanics and Service Technicians">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="96000.0" />
+          <attvalue for="2" value="0.17020084586274542" />
+        </attvalues>
+      </node>
+      <node id="Automotive Body and Related Repairers" label="Automotive Body and Related Repairers">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Automotive Service Technicians and Mechanics" label="Automotive Service Technicians and Mechanics">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="36871.42857142857" />
+          <attvalue for="2" value="0.06537029511484314" />
+        </attvalues>
+      </node>
+      <node id="Control and Valve Installers and Repairers" label="Control and Valve Installers and Repairers">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Bus and Truck Mechanics and Diesel Engine Specialists" label="Bus and Truck Mechanics and Diesel Engine Specialists">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="83000.0" />
+          <attvalue for="2" value="0.14715281465216531" />
+        </attvalues>
+      </node>
+      <node id="Heating, Air Conditioning, and Refrigeration Mechanics and Installers" label="Heating, Air Conditioning, and Refrigeration Mechanics and Installers">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="120000.0" />
+          <attvalue for="2" value="0.21275105732843178" />
+        </attvalues>
+      </node>
+      <node id="Maintenance and Repair Workers, General" label="Maintenance and Repair Workers, General">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="67500.0" />
+          <attvalue for="2" value="0.11967246974724288" />
+        </attvalues>
+      </node>
+      <node id="Other Installation, Maintenance, and Repair Workers Including Wind Turbine Service Technicians, and Commercial Divers, and Signal and Track Switch Repairers" label="Other Installation, Maintenance, and Repair Workers Including Wind Turbine Service Technicians, and Commercial Divers, and Signal and Track Switch Repairers">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="0.0" />
+        </attvalues>
+      </node>
+      <node id="Welding, Soldering, and Brazing Workers" label="Welding, Soldering, and Brazing Workers">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="38000.0" />
+          <attvalue for="2" value="0.0673711681540034" />
+        </attvalues>
+      </node>
+      <node id="Assemblers and Fabricators, nec" label="Assemblers and Fabricators, nec">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="16000.0" />
+          <attvalue for="2" value="0.028366807643790903" />
+        </attvalues>
+      </node>
+      <node id="Packaging and Filling Machine Operators and Tenders" label="Packaging and Filling Machine Operators and Tenders">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="38333.333333333336" />
+          <attvalue for="2" value="0.06796214331324905" />
+        </attvalues>
+      </node>
+      <node id="Bakers" label="Bakers">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="564039.5" />
+          <attvalue for="2" value="1.0" />
+        </attvalues>
+      </node>
+      <node id="Metal workers and plastic workers, nec" label="Metal workers and plastic workers, nec">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="37586.666666666664" />
+          <attvalue for="2" value="0.0666383589565388" />
+        </attvalues>
+      </node>
+      <node id="Butchers and Other Meat, Poultry, and Fish Processing Workers" label="Butchers and Other Meat, Poultry, and Fish Processing Workers">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="20000.0" />
+          <attvalue for="2" value="0.03545850955473863" />
+        </attvalues>
+      </node>
+      <node id="Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders" label="Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="31200.0" />
+          <attvalue for="2" value="0.055315274905392266" />
+        </attvalues>
+      </node>
+      <node id="Food Processing, nec" label="Food Processing, nec">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="50000.0" />
+          <attvalue for="2" value="0.08864627388684658" />
+        </attvalues>
+      </node>
+      <node id="Machinists" label="Machinists">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="33500.0" />
+          <attvalue for="2" value="0.059393003504187206" />
+        </attvalues>
+      </node>
+      <node id="Bookbinders, Printing Machine Operators, and Job Printers" label="Bookbinders, Printing Machine Operators, and Job Printers">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="25000.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Inspectors, Testers, Sorters, Samplers, and Weighers" label="Inspectors, Testers, Sorters, Samplers, and Weighers">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="47250.5" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Painting Workers and Dyers" label="Painting Workers and Dyers">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="16640.0" />
+          <attvalue for="2" value="0.029501479949542542" />
+        </attvalues>
+      </node>
+      <node id="Other production workers including semiconductor processors and cooling and freezing equipment operators" label="Other production workers including semiconductor processors and cooling and freezing equipment operators">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="15333.333333333334" />
+          <attvalue for="2" value="0.027184857325299617" />
+        </attvalues>
+      </node>
+      <node id="Supervisors of Transportation and Material Moving Workers" label="Supervisors of Transportation and Material Moving Workers">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="40000.0" />
+          <attvalue for="2" value="0.07091701910947726" />
+        </attvalues>
+      </node>
+      <node id="Driver/Sales Workers and Truck Drivers" label="Driver/Sales Workers and Truck Drivers">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="30900.0" />
+          <attvalue for="2" value="0.05478339726207119" />
+        </attvalues>
+      </node>
+      <node id="Automotive and Watercraft Service Attendants" label="Automotive and Watercraft Service Attendants">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="34000.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Computer Control Programmers and Operators" label="Computer Control Programmers and Operators">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Taxi Drivers and Chauffeurs" label="Taxi Drivers and Chauffeurs">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="37333.333333333336" />
+          <attvalue for="2" value="0.06618921783551211" />
+        </attvalues>
+      </node>
+      <node id="Locomotive Engineers and Operators" label="Locomotive Engineers and Operators">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="80000.0" />
+          <attvalue for="2" value="0.14183403821895452" />
+        </attvalues>
+      </node>
+      <node id="Ship and Boat Captains and Operators" label="Ship and Boat Captains and Operators">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="150000.0" />
+          <attvalue for="2" value="0.2659388216605397" />
+        </attvalues>
+      </node>
+      <node id="Industrial Truck and Tractor Operators" label="Industrial Truck and Tractor Operators">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="33042.833333333336" />
+          <attvalue for="2" value="0.05858248107328181" />
+        </attvalues>
+      </node>
+      <node id="Cleaners of Vehicles and Equipment" label="Cleaners of Vehicles and Equipment">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="39999.5" />
+          <attvalue for="2" value="0.07091613264673839" />
+        </attvalues>
+      </node>
+      <node id="Motor Vehicle Operators, All Other" label="Motor Vehicle Operators, All Other">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="0.0" />
+          <attvalue for="2" value="NaN" />
+        </attvalues>
+      </node>
+      <node id="Laborers and Freight, Stock, and Material Movers, Hand" label="Laborers and Freight, Stock, and Material Movers, Hand">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="22370.0" />
+          <attvalue for="2" value="0.03966034293697516" />
+        </attvalues>
+      </node>
+      <node id="Packers and Packagers, Hand" label="Packers and Packagers, Hand">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="36333.333333333336" />
+          <attvalue for="2" value="0.06441629235777518" />
+        </attvalues>
+      </node>
+      <node id="NIU" label="NIU">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="50000.0" />
+          <attvalue for="2" value="0.08864627388684658" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Chief executives and legislators/public administration" target="Barbers" id="0">
+        <attvalues>
+          <attvalue for="3" value="2441.4" />
+        </attvalues>
+      </edge>
+      <edge source="Administrative Services Managers" target="Customer Service Representatives" id="1">
+        <attvalues>
+          <attvalue for="3" value="2687.72" />
+        </attvalues>
+      </edge>
+      <edge source="Computer and Information Systems Managers" target="Financial Managers" id="2">
+        <attvalues>
+          <attvalue for="3" value="3833.55" />
+        </attvalues>
+      </edge>
+      <edge source="Education Administrators" target="Word Processors and Typists" id="3">
+        <attvalues>
+          <attvalue for="3" value="6451.25" />
+        </attvalues>
+      </edge>
+      <edge source="Property, Real Estate, and Community Association Managers" target="Education Administrators" id="4">
+        <attvalues>
+          <attvalue for="3" value="1251.16" />
+        </attvalues>
+      </edge>
+      <edge source="Social Workers" target="Education Administrators" id="5">
+        <attvalues>
+          <attvalue for="3" value="3365.39" />
+        </attvalues>
+      </edge>
+      <edge source="Medical and Health Services Managers" target="Food Service and Lodging Managers" id="6">
+        <attvalues>
+          <attvalue for="3" value="2843.5" />
+        </attvalues>
+      </edge>
+      <edge source="Managers, nec (including Postmasters)" target="Financial Specialists, nec" id="7">
+        <attvalues>
+          <attvalue for="3" value="2481.15" />
+        </attvalues>
+      </edge>
+      <edge source="Managers, nec (including Postmasters)" target="Other Teachers and Instructors" id="8">
+        <attvalues>
+          <attvalue for="3" value="1312.26" />
+        </attvalues>
+      </edge>
+      <edge source="Grounds Maintenance Workers" target="Managers, nec (including Postmasters)" id="9">
+        <attvalues>
+          <attvalue for="3" value="2441.4" />
+        </attvalues>
+      </edge>
+      <edge source="Grounds Maintenance Workers" target="Stock Clerks and Order Fillers" id="10">
+        <attvalues>
+          <attvalue for="3" value="6006.05" />
+        </attvalues>
+      </edge>
+      <edge source="Compliance Officers, Except Agriculture" target="Claims Adjusters, Appraisers, Examiners, and Investigators" id="11">
+        <attvalues>
+          <attvalue for="3" value="3384.68" />
+        </attvalues>
+      </edge>
+      <edge source="Claims Adjusters, Appraisers, Examiners, and Investigators" target="Compliance Officers, Except Agriculture" id="12">
+        <attvalues>
+          <attvalue for="3" value="2771.59" />
+        </attvalues>
+      </edge>
+      <edge source="Bookkeeping, Accounting, and Auditing Clerks" target="Personal Financial Advisors" id="13">
+        <attvalues>
+          <attvalue for="3" value="2277.63" />
+        </attvalues>
+      </edge>
+      <edge source="Bookkeeping, Accounting, and Auditing Clerks" target="Secretaries and Administrative Assistants" id="14">
+        <attvalues>
+          <attvalue for="3" value="339.73" />
+        </attvalues>
+      </edge>
+      <edge source="Credit Counselors and Loan Officers" target="Other Teachers and Instructors" id="15">
+        <attvalues>
+          <attvalue for="3" value="3269.7" />
+        </attvalues>
+      </edge>
+      <edge source="Computer Support Specialists" target="Software Developers, Applications and Systems Software" id="16">
+        <attvalues>
+          <attvalue for="3" value="2511.36" />
+        </attvalues>
+      </edge>
+      <edge source="Engineering Technicians, Except Drafters" target="Chemical Engineers" id="17">
+        <attvalues>
+          <attvalue for="3" value="2698.85" />
+        </attvalues>
+      </edge>
+      <edge source="Engineers, nec" target="Industrial Engineers, including Health and Safety" id="18">
+        <attvalues>
+          <attvalue for="3" value="3769.5" />
+        </attvalues>
+      </edge>
+      <edge source="Nursing, Psychiatric, and Home Health Aides" target="Paralegals and Legal Assistants" id="19">
+        <attvalues>
+          <attvalue for="3" value="1497.43" />
+        </attvalues>
+      </edge>
+      <edge source="Nursing, Psychiatric, and Home Health Aides" target="Medical Assistants and Other Healthcare Support Occupations, nec" id="20">
+        <attvalues>
+          <attvalue for="3" value="3186.86" />
+        </attvalues>
+      </edge>
+      <edge source="Nursing, Psychiatric, and Home Health Aides" target="Personal Care Aides" id="21">
+        <attvalues>
+          <attvalue for="3" value="4057.5600000000004" />
+        </attvalues>
+      </edge>
+      <edge source="Preschool and Kindergarten Teachers" target="Chefs and Cooks" id="22">
+        <attvalues>
+          <attvalue for="3" value="1258.22" />
+        </attvalues>
+      </edge>
+      <edge source="Childcare Workers" target="Preschool and Kindergarten Teachers" id="23">
+        <attvalues>
+          <attvalue for="3" value="6340.09" />
+        </attvalues>
+      </edge>
+      <edge source="Childcare Workers" target="Entertainment Attendants and Related Workers, nec" id="24">
+        <attvalues>
+          <attvalue for="3" value="2040.1" />
+        </attvalues>
+      </edge>
+      <edge source="Secondary School Teachers" target="Archivists, Curators, and Museum Technicians" id="25">
+        <attvalues>
+          <attvalue for="3" value="1391.07" />
+        </attvalues>
+      </edge>
+      <edge source="Designers" target="Artists and Related Workers" id="26">
+        <attvalues>
+          <attvalue for="3" value="3763.53" />
+        </attvalues>
+      </edge>
+      <edge source="Designers" target="Editors, News Analysts, Reporters, and Correspondents" id="27">
+        <attvalues>
+          <attvalue for="3" value="286.19" />
+        </attvalues>
+      </edge>
+      <edge source="Chefs and Cooks" target="Entertainers and Performers, Sports and Related Workers, All Other" id="28">
+        <attvalues>
+          <attvalue for="3" value="2833.13" />
+        </attvalues>
+      </edge>
+      <edge source="Chefs and Cooks" target="Security Guards and Gaming Surveillance Officers" id="29">
+        <attvalues>
+          <attvalue for="3" value="3467.34" />
+        </attvalues>
+      </edge>
+      <edge source="Chefs and Cooks" target="First-Line Supervisors of Food Preparation and Serving Workers" id="30">
+        <attvalues>
+          <attvalue for="3" value="2114.92" />
+        </attvalues>
+      </edge>
+      <edge source="Diagnostic Related Technologists and Technicians" target="Emergency Medical Technicians and Paramedics" id="31">
+        <attvalues>
+          <attvalue for="3" value="1430.93" />
+        </attvalues>
+      </edge>
+      <edge source="Retail Salespersons" target="Chefs and Cooks" id="32">
+        <attvalues>
+          <attvalue for="3" value="4200.78" />
+        </attvalues>
+      </edge>
+      <edge source="Retail Salespersons" target="Combined Food Preparation and Serving Workers, Including Fast Food" id="33">
+        <attvalues>
+          <attvalue for="3" value="2233.07" />
+        </attvalues>
+      </edge>
+      <edge source="Food Preparation Workers" target="Combined Food Preparation and Serving Workers, Including Fast Food" id="34">
+        <attvalues>
+          <attvalue for="3" value="3194.1" />
+        </attvalues>
+      </edge>
+      <edge source="Combined Food Preparation and Serving Workers, Including Fast Food" target="Dishwashers" id="35">
+        <attvalues>
+          <attvalue for="3" value="2197.81" />
+        </attvalues>
+      </edge>
+      <edge source="First-Line Supervisors of Sales Workers" target="Combined Food Preparation and Serving Workers, Including Fast Food" id="36">
+        <attvalues>
+          <attvalue for="3" value="2197.31" />
+        </attvalues>
+      </edge>
+      <edge source="Food Servers, Nonrestaurant" target="Machinists" id="37">
+        <attvalues>
+          <attvalue for="3" value="3746.51" />
+        </attvalues>
+      </edge>
+      <edge source="Carpenters" target="Food preparation and serving related workers, nec" id="38">
+        <attvalues>
+          <attvalue for="3" value="1741.57" />
+        </attvalues>
+      </edge>
+      <edge source="Carpenters" target="Janitors and Building Cleaners" id="39">
+        <attvalues>
+          <attvalue for="3" value="793.04" />
+        </attvalues>
+      </edge>
+      <edge source="Dishwashers" target="Couriers and Messengers" id="40">
+        <attvalues>
+          <attvalue for="3" value="1754.93" />
+        </attvalues>
+      </edge>
+      <edge source="Janitors and Building Cleaners" target="Maids and Housekeeping Cleaners" id="41">
+        <attvalues>
+          <attvalue for="3" value="5821.71" />
+        </attvalues>
+      </edge>
+      <edge source="Life, Physical, and Social Science Technicians, nec" target="Grounds Maintenance Workers" id="42">
+        <attvalues>
+          <attvalue for="3" value="6284.53" />
+        </attvalues>
+      </edge>
+      <edge source="Personal Appearance Workers, nec" target="Gaming Services Workers" id="43">
+        <attvalues>
+          <attvalue for="3" value="1762.93" />
+        </attvalues>
+      </edge>
+      <edge source="Personal Appearance Workers, nec" target="Childcare Workers" id="44">
+        <attvalues>
+          <attvalue for="3" value="2274.88" />
+        </attvalues>
+      </edge>
+      <edge source="Purchasing Agents, Except Wholesale, Retail, and Farm Products" target="Personal Appearance Workers, nec" id="45">
+        <attvalues>
+          <attvalue for="3" value="875.55" />
+        </attvalues>
+      </edge>
+      <edge source="Door-to-Door Sales Workers, News and Street Vendors, and Related Workers" target="Personal Care Aides" id="46">
+        <attvalues>
+          <attvalue for="3" value="1856.51" />
+        </attvalues>
+      </edge>
+      <edge source="Hotel, Motel, and Resort Desk Clerks" target="Real Estate Brokers and Sales Agents" id="47">
+        <attvalues>
+          <attvalue for="3" value="5796.9" />
+        </attvalues>
+      </edge>
+      <edge source="Customer Service Representatives" target="Bookkeeping, Accounting, and Auditing Clerks" id="48">
+        <attvalues>
+          <attvalue for="3" value="6243.13" />
+        </attvalues>
+      </edge>
+      <edge source="Customer Service Representatives" target="Receptionists and Information Clerks" id="49">
+        <attvalues>
+          <attvalue for="3" value="3059.69" />
+        </attvalues>
+      </edge>
+      <edge source="Customer Service Representatives" target="NIU" id="50">
+        <attvalues>
+          <attvalue for="3" value="2070.34" />
+        </attvalues>
+      </edge>
+      <edge source="Dispatchers" target="Customer Service Representatives" id="51">
+        <attvalues>
+          <attvalue for="3" value="1844.43" />
+        </attvalues>
+      </edge>
+      <edge source="Dispatchers" target="Receptionists and Information Clerks" id="52">
+        <attvalues>
+          <attvalue for="3" value="2927.88" />
+        </attvalues>
+      </edge>
+      <edge source="Dispatchers" target="Information and Record Clerks, All Other" id="53">
+        <attvalues>
+          <attvalue for="3" value="3804.02" />
+        </attvalues>
+      </edge>
+      <edge source="Nonfarm Animal Caretakers" target="Receptionists and Information Clerks" id="54">
+        <attvalues>
+          <attvalue for="3" value="3613.31" />
+        </attvalues>
+      </edge>
+      <edge source="Industrial and Refractory Machinery Mechanics" target="Information and Record Clerks, All Other" id="55">
+        <attvalues>
+          <attvalue for="3" value="6145.1" />
+        </attvalues>
+      </edge>
+      <edge source="Drywall Installers, Ceiling Tile Installers, and Tapers" target="Construction Laborers" id="56">
+        <attvalues>
+          <attvalue for="3" value="4880.85" />
+        </attvalues>
+      </edge>
+      <edge source="Electrical Power-Line Installers and Repairers" target="Aircraft Mechanics and Service Technicians" id="57">
+        <attvalues>
+          <attvalue for="3" value="960.29" />
+        </attvalues>
+      </edge>
+      <edge source="Automotive Body and Related Repairers" target="Automotive Service Technicians and Mechanics" id="58">
+        <attvalues>
+          <attvalue for="3" value="1950.2" />
+        </attvalues>
+      </edge>
+      <edge source="Automotive Service Technicians and Mechanics" target="Heating, Air Conditioning, and Refrigeration Mechanics and Installers" id="59">
+        <attvalues>
+          <attvalue for="3" value="1576.71" />
+        </attvalues>
+      </edge>
+      <edge source="Control and Valve Installers and Repairers" target="Automotive Service Technicians and Mechanics" id="60">
+        <attvalues>
+          <attvalue for="3" value="4005.36" />
+        </attvalues>
+      </edge>
+      <edge source="Welding, Soldering, and Brazing Workers" target="Assemblers and Fabricators, nec" id="61">
+        <attvalues>
+          <attvalue for="3" value="2548.41" />
+        </attvalues>
+      </edge>
+      <edge source="Packaging and Filling Machine Operators and Tenders" target="Assemblers and Fabricators, nec" id="62">
+        <attvalues>
+          <attvalue for="3" value="2893.82" />
+        </attvalues>
+      </edge>
+      <edge source="Packaging and Filling Machine Operators and Tenders" target="Food Processing, nec" id="63">
+        <attvalues>
+          <attvalue for="3" value="9009.84" />
+        </attvalues>
+      </edge>
+      <edge source="Metal workers and plastic workers, nec" target="Bakers" id="64">
+        <attvalues>
+          <attvalue for="3" value="3732.49" />
+        </attvalues>
+      </edge>
+      <edge source="Food Processing, nec" target="Metal workers and plastic workers, nec" id="65">
+        <attvalues>
+          <attvalue for="3" value="561.03" />
+        </attvalues>
+      </edge>
+      <edge source="Bookbinders, Printing Machine Operators, and Job Printers" target="Metal workers and plastic workers, nec" id="66">
+        <attvalues>
+          <attvalue for="3" value="3068.57" />
+        </attvalues>
+      </edge>
+      <edge source="Inspectors, Testers, Sorters, Samplers, and Weighers" target="Metal workers and plastic workers, nec" id="67">
+        <attvalues>
+          <attvalue for="3" value="473.47" />
+        </attvalues>
+      </edge>
+      <edge source="Driver/Sales Workers and Truck Drivers" target="Taxi Drivers and Chauffeurs" id="68">
+        <attvalues>
+          <attvalue for="3" value="1754.93" />
+        </attvalues>
+      </edge>
+      <edge source="Driver/Sales Workers and Truck Drivers" target="Industrial Truck and Tractor Operators" id="69">
+        <attvalues>
+          <attvalue for="3" value="3624.6" />
+        </attvalues>
+      </edge>
+      <edge source="Driver/Sales Workers and Truck Drivers" target="Cleaners of Vehicles and Equipment" id="70">
+        <attvalues>
+          <attvalue for="3" value="5916.28" />
+        </attvalues>
+      </edge>
+      <edge source="Automotive and Watercraft Service Attendants" target="Driver/Sales Workers and Truck Drivers" id="71">
+        <attvalues>
+          <attvalue for="3" value="4506.33" />
+        </attvalues>
+      </edge>
+      <edge source="Automotive and Watercraft Service Attendants" target="Packers and Packagers, Hand" id="72">
+        <attvalues>
+          <attvalue for="3" value="2367.41" />
+        </attvalues>
+      </edge>
+      <edge source="Computer Control Programmers and Operators" target="Taxi Drivers and Chauffeurs" id="73">
+        <attvalues>
+          <attvalue for="3" value="4912.28" />
+        </attvalues>
+      </edge>
+      <edge source="Motor Vehicle Operators, All Other" target="Cleaners of Vehicles and Equipment" id="74">
+        <attvalues>
+          <attvalue for="3" value="2131.41" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
